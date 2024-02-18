@@ -21,15 +21,15 @@ http://60.213.92.38:9901/tsfile/live/1047_1.m3u8
 http://60.213.92.38:9901/tsfile/live/1048_1.m3u8
 #EXTINF:-1,法治天地
 http://60.213.92.38:9901/tsfile/live/1050_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/游戏风云" tvg-id="游戏风云" tvg-name="游戏风云" group-title="高清",游戏风云
+#EXTINF:-1,游戏风云
 http://60.213.92.38:9901/tsfile/live/1051_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/生活时尚" tvg-id="生活时尚" tvg-name="生活时尚" group-title="高清",生活时尚
+#EXTINF:-1 ,生活时尚
 http://60.213.92.38:9901/tsfile/live/1054_1.m3u8
 #EXTINF:-1,都市剧场
 http://60.213.92.38:9901/tsfile/live/1055_1.m3u8
 #EXTINF:-1,乐游
 http://60.213.92.38:9901/tsfile/live/1056_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/新动漫" tvg-id="新动漫" tvg-name="新动漫" group-title="高清",新动漫
+#EXTINF:-1 ,新动漫
 http://60.213.92.38:9901/tsfile/live/1057_1.m3u8
 #EXTINF:-1,IPTV3+
 http://60.213.92.38:9901/tsfile/live/1062_1.m3u8
@@ -51,11 +51,11 @@ http://60.213.92.38:9901/tsfile/live/1059_1.m3u8
 http://60.213.92.38:9901/tsfile/live/1060_1.m3u8
 #EXTINF:-1,动作影院
 http://60.213.92.38:9901/tsfile/live/1061_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1-综合
+#EXTINF:-1 ,CCTV1-综合
 http://60.213.92.38:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视",CCTV2-财经
+#EXTINF:-1 ,CCTV2-财经
 http://60.213.92.38:9901/tsfile/live/0002_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视",CCTV3-综艺
+#EXTINF:-1 ,CCTV3-综艺
 http://60.213.92.38:9901/tsfile/live/0003_1.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视",CCTV4-国际
 http://60.213.92.38:9901/tsfile/live/0004_1.m3u8
